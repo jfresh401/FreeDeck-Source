@@ -1,0 +1,6 @@
+for dev server,  npm start
+
+
+for build for site,  npm run build
+
+for app to install, npx tauri build
