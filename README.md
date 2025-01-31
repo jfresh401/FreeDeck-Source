@@ -2,9 +2,9 @@
 
 ## An OpenSource device inspired by the Elgato Stream Deck
 
-### Live App hosted [HERE](https://fdconfig.freeyourstream.com/)
+### Live App hosted [HERE](https://jfresh401.github.io/FreshFreeDeckConfigOnline/) 
 
-### Discord Community [HERE](https://discord.gg/sEt2Rrd)
+### Discord Community [HERE](https://discord.gg/Zwp6AFuQxD)
 
 This is the software to create the config file and converting the images for the FreeDeck
 
